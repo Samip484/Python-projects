@@ -1,4 +1,4 @@
-# Step 1: Define questions with options and answers
+
 import random
 print("Rules:\n1.User will get 1 marks if the answer is correct.\n2.1 marks will be deducted if the answer is wrong.\n3.You can skip the questions and also skip the game.\n")
 quiz_questions = [
